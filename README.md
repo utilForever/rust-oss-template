@@ -6,7 +6,7 @@
 
 [![codecov](https://codecov.io/gh/utilForever/rust-oss-template/branch/master/graph/badge.svg)](https://codecov.io/gh/utilForever/rust-oss-template)
 
-rust-oss-template is a simple template for rust language based project. 
+rust-oss-template is a simple template for Rust language based project. 
 
 ## Support CI
 
